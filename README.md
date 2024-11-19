@@ -14,7 +14,7 @@ Hello there! I am Tsvetomir, a JavaScript enthusiast and student at [SoftUni](ht
 </br>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me on [Instagram](https://www.instagram.com/tzzeka/)!
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me on [![Instagram](https://fontawesome.com/icons/instagram?f=brands&s=solid)](https://www.instagram.com/tzzeka/)!
 
 <br />
 
