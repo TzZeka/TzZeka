@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm Tsvetomir, a passionate JavaScript enthusiast 
 </br> 
 </br>
 
-> 💬 If you have any questions or feedback, feel free to reach out anytime! On:
--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tzzeka/) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsvetomir-genov-b5146b2a5/)  
+> 💬 If you have any questions or feedback, feel free to reach out anytime! [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tzzeka/) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsvetomir-genov-b5146b2a5/)  
 <br /> 
 --- 
 <br />
@@ -42,5 +41,9 @@ Progressing ➡️ Now diving into Angular, ReactJS, and beyond!
 ### GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TzZeka&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
 
-### Github Language stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzZeka&theme=dark&show_icons=true&hide_border=true&layout=compact alt="GitHub Language Stats">
+### 📊 GitHub Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzZeka&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Github Language Stats">
+</p>
+
