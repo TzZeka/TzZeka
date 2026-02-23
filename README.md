@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Tsvetomir, a passionate JavaScript Front-end d
 
 ### 🚀 My Coding Journey:
 📍 Started with basics of JavaScript --/------
-Progressing ➡️ Now diving into Angular, ReactJS, and beyond!
+Progressing ➡️ Now diving into, ReactJS, AI, Next.js and beyond!
 </br>
 </br>
 
