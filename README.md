@@ -2,17 +2,15 @@
 
 
 
-### Hi there, I'm Tsvetomir aka [Tzeka] 👋
-Welcome to my GitHub profile! I'm Tsvetomir, a passionate JavaScript enthusiast currently studying at [SoftUni](https://softuni.bg/). I'm excited about technology, learning, and building cool things! Let's connect and grow together. 🚀
+### Hi there, I'm Tsvetomir Genov 👋
+Welcome to my GitHub profile! I'm Tsvetomir, a passionate JavaScript Front-end developer I'm excited about technology, learning, and building cool things! Let's connect and grow together. 🚀
 </br> 
 </br>
 
 ✨ About Me
-🌱 Currently Learning: Everything JavaScript and beyond!
+🌱 Currently Learning: Everything JavaScript,AI and beyond!
 
-🎯 2025 Goals: Deepen my knowledge in Deep Learning.
-
-🌿 Fun Fact: I love walking in nature.
+🎯 2026 Goals: Deepen my knowledge in Deep Learning.
 </br> 
 </br>
 
